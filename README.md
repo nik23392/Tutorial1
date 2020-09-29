@@ -1,2 +1,2 @@
 # Tutorial1
-knowledge transfer
+knowledge transfer for Git and GitHub
